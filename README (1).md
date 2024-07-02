@@ -12,9 +12,8 @@ Repo for study CS114 in UIT
   </a>
 </div>
 
-#
-<!-- Badge -->
-![Language](https://img.shields.io/badge/python%203.8-%23FFF.svg?style=for-the-badge&logo=python)
+#Giới thiệu
+Xin chào, chào mừng bạn đến với kho lưu trữ của tôi cho các dự án của lớp học Máy Học. Trong kho lưu trữ này, bạn sẽ tìm thấy nhiều dự án tôi đã thực hiện trong khóa học CS114.O21.KHCL. Phần lớn các dự án vẫn đang trong giai đoạn hoàn thiện do số lượng bài tập rất lớn mà tôi phải hoàn thành.
 
 # Thông tin Môn học
 <table>
@@ -30,3 +29,10 @@ Repo for study CS114 in UIT
 | `21522446` | Nguyễn Lê Tiến Phát    | 21522446@gm.uit.edu.vn | [![](https://img.shields.io/badge/howtodie123-%2324292f.svg?style=flat-square&logo=github      )](https://github.com/howtodie123) |
 | `21522243` | Đỗ Phúc Kiên           | 21522243@gm.uit.edu.vn|  [![](https://img.shields.io/badge/dpkien2809-%2324292f.svg?style=flat-square&logo=github      )](https://github.com/dpkien2809) |
 <!-- Template design by Howtodie  -->
+
+# Đồ án
+1. Dự đoán điểm IT001
+
+2. Phân loại chữ số viết tay
+
+3. Dự án cuối kỳ: Phân loại xe máy
