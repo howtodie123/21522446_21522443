@@ -33,6 +33,14 @@ Xin chào, chào mừng bạn đến với kho lưu trữ của tôi cho các d�
 # Đồ án
 # 1. Dự đoán điểm IT001
 
+Link đồ án: https://github.com/howtodie123/CS114.O21.KHCL_EzGame
+
 # 2. Phân loại chữ số viết tay
 
+Link đồ án: https://colab.research.google.com/drive/1-fE7W-uss1ZlS3K3ZJc6_j0w31naMbKr#scrollTo=pizSHNo5rOwj
+
 # 3. Dự án cuối kỳ: Phân loại xe máy
+
+Link đồ án: https://colab.research.google.com/drive/1VURAVlIsnIbaL5knrHRhoj2KfeHmIbF2?usp=sharing
+
+
