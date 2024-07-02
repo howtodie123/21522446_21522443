@@ -31,8 +31,8 @@ Xin chào, chào mừng bạn đến với kho lưu trữ của tôi cho các d�
 <!-- Template design by Howtodie  -->
 
 # Đồ án
-1. Dự đoán điểm IT001
+# 1. Dự đoán điểm IT001
 
-2. Phân loại chữ số viết tay
+# 2. Phân loại chữ số viết tay
 
-3. Dự án cuối kỳ: Phân loại xe máy
+# 3. Dự án cuối kỳ: Phân loại xe máy
