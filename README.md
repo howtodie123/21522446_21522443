@@ -12,7 +12,7 @@ Repo for study CS114 in UIT
   </a>
 </div>
 
-#Giới thiệu
+# Giới thiệu
 Xin chào, chào mừng bạn đến với kho lưu trữ của tôi cho các dự án của lớp học Máy Học. Trong kho lưu trữ này, bạn sẽ tìm thấy nhiều dự án tôi đã thực hiện trong khóa học CS114.O21.KHCL. Phần lớn các dự án vẫn đang trong giai đoạn hoàn thiện do số lượng bài tập rất lớn mà tôi phải hoàn thành.
 
 # Thông tin Môn học
@@ -44,6 +44,6 @@ Xin chào, chào mừng bạn đến với kho lưu trữ của tôi cho các d�
 # 3. Dự án cuối kỳ: Phân loại xe máy
 
 - Link notebook: https://colab.research.google.com/drive/1VURAVlIsnIbaL5knrHRhoj2KfeHmIbF2?usp=sharing
-- Link data: https://drive.google.com/drive/folders/11GZq5zdJO1e9BmBMs6kMlYdfVO2nrJLl?usp=sharing
+- Link data: https://drive.google.com/drive/folders/1QJ8Jma2zdTEV2auC3NY_eC3SUfoj_W2a?usp=sharing
 
 
