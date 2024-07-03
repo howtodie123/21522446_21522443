@@ -33,15 +33,21 @@ Xin chào, chào mừng bạn đến với kho lưu trữ của tôi cho các d�
 # Đồ án
 # 1. Phân loại chữ số viết tay 
 
+Đây là bài toán sử dụng Máy học để có thể nhận dạng được chữ số viết tay từ 0 đến 9. Ta sẽ thu thập chữ số viết tay trên thực tế và sau đó sử dụng model đã được huấn luyện sẵn được train trên tập MNIST để đánh gái và xử lý tiền dữ liệu sao cho model hoạt động tốt.
+
 - Link notebook: https://colab.research.google.com/drive/143-GwYKSZzyhV1CdBzDMLmfhq2r5IgJE?authuser=1#scrollTo=bAq-EDwWMFc
 - Link data: https://github.com/howtodie123/CS114.O21.KHCL_EzGame/tree/main/LAB01/data
 
 # 2. Dự đoán điểm IT001
 
+Xây dựng mô hình học máy dựa trên các chỉ số thống kê được trên Wecode - nơi làm bài tập và chấm điểm trực tuyến. Ta sẽ được cung cấp các chỉ số thống kê trong 1 năm học của các sinh viên làm bài trên Wecode. Từ đó sử dụng mô hình học máy để phân tích và đánh giá liệu có thể dự đoán được điểm số của 1 sinh viên thông qua các chỉ số thống kê đó không. Có 4 cột điểm để dự đoán là CK,TH,DiemQT,TBTL
+
 - Link notebook: https://colab.research.google.com/drive/1-fE7W-uss1ZlS3K3ZJc6_j0w31naMbKr#scrollTo=pizSHNo5rOwj
 - Link data: https://drive.google.com/drive/folders/1y6BaJqqdfTKkHqYJBO2siyjJRMnHY3Mq
 
 # 3. Dự án cuối kỳ: Phân loại xe máy
+
+Đây là bài Toán phân loại các hãng xe máy bao gồm xe Honda, xe Yamaha, xe Suzuiki , xe VinFast và còn lại. Đầu tiên ta sẽ thu thập hình ảnh của các xe trong các hãng đó bao gồm hàng trưng bày và ảnh thực tế. Sau đó ta sử dụng Học máy để phân tích và huấn luyện nó rồi đánh giá kết quả xem có thể phân loại được hãng xe thông qua model hay không, và độ chính xác là bao nhiêu.
 
 - Link notebook: https://colab.research.google.com/drive/1VURAVlIsnIbaL5knrHRhoj2KfeHmIbF2?usp=sharing
 - Link data: https://drive.google.com/drive/folders/1QJ8Jma2zdTEV2auC3NY_eC3SUfoj_W2a?usp=sharing
