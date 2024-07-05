@@ -49,7 +49,7 @@ Xây dựng mô hình học máy dựa trên các chỉ số thống kê đượ
 
 Đây là bài Toán phân loại các hãng xe máy bao gồm xe Honda, xe Yamaha, xe Suzuiki , xe VinFast và còn lại. Đầu tiên ta sẽ thu thập hình ảnh của các xe trong các hãng đó bao gồm hàng trưng bày và ảnh thực tế. Sau đó ta sử dụng Học máy để phân tích và huấn luyện nó rồi đánh giá kết quả xem có thể phân loại được hãng xe thông qua model hay không, và độ chính xác là bao nhiêu.
 
-- Link notebook: https://colab.research.google.com/drive/1VURAVlIsnIbaL5knrHRhoj2KfeHmIbF2?usp=sharing
+- Link notebook: https://colab.research.google.com/drive/1IWNSwzHTAPL2CPzmGO8F_A-CT3nKCJql?authuser=1&usp=classroom_web#scrollTo=Aou0c7gRBZTP
 - Link data: https://drive.google.com/drive/folders/1QJ8Jma2zdTEV2auC3NY_eC3SUfoj_W2a?usp=sharing
 
 
